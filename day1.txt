@@ -1,4 +1,4 @@
-#example1
+#example
 math =50
 chem = 50
 phy = 50
